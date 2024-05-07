@@ -23,5 +23,5 @@ export class ProductComponent implements OnInit {
   }
 }
 /*
-17:39 https://www.youtube.com/watch?v=nxb27l6LBEU
+17:38 https://www.youtube.com/watch?v=nxb27l6LBEU
 */
