@@ -1,0 +1,9 @@
+:host ::ng-deep .product-form p-inputNumber .p-inputnumber {
+  width: 100% !important;
+}
+
+.full-width-input {
+  width: 100%;
+}
+
+
